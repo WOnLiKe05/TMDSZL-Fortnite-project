@@ -199,7 +199,7 @@ namespace TMD_SZL_Fortnite_project
 
         private void listBox1_SelectedValueChanged(object sender, EventArgs e)
         {
-            //Levente része
+            //Levente része.
             lNev.Visible = true;
             lKill.Visible = true;
             lPajzs.Visible = true;
